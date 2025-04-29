@@ -16,11 +16,14 @@ I am a fast learner, solution-oriented, and thrive in both team settings and ind
 | [Data platform course][data_platform] | Databaser               |  Designed, created, and managed relational databases using SQL. Learned data modeling, normalization, and CRUD operations.       | SQL, Dapper, Data Modeling |
 | | Agil Projektledning | Studied Scrum and Kanban; learned to manage project structures, roles (Scrum Master, Developer, Product Owner), and team planning. | Scrum, Kanban, GitHub-Projects |
 | [Data modeling course][model]         | AI 1 - Python           | Developed Python skills, working with file handling, virtual enviornments, NumPy, Pandas, and Matplotlib. Focused on data cleaning, preparation, visualization, data analysis, data storytelling, dashboards and KPIs.     | Python, Pandas, Matplotlib, NumPy, Streamlit |
-| [Data engineering][data_eng]          | AI 2 - Data Engineering (ongoing) | Studying ETL/ELT processes, data pipelines, and transformations. Learning regression, classification, clustering, and working with DLT, DBT Core, Docker and TensorFlow.                        | DuckDB, Data Warehouse, Data Pipelines, APIs, Snowflake, Docker, LLMs |
-| | OOP avancerad 1 (upcoming) | HT 2025 | |
-| | LIA 1 (upcoming) | 2025-10-13 -> 2025-12-12 | |
-| | OOP avancerad 2 (upcoming) | VT 2026 | |
-| | LIA 2 (upcoming) | 2026-02-16 -> 2026-05-22 | |
+| [Data engineering][data_eng]          | AI 2 - Data Engineering (ongoing) | Studying ETL/ELT processes, data pipelines, and transformations. Learning regression, classification, clustering, and working with DLT, DBT Core, Docker and scikit-learn.                        | DuckDB, Data Warehouse, Data Pipelines, APIs, Snowflake, Docker, LLMs |
+
+
+### Upcoming courses    
+- OOP avancerad 1(HT25)
+- LIA1(2025-10-13 -> 2025-12-12)
+- OOP avancerad 2(VT25)
+- LIA2(2026-02-16 -> 2026-05-22)
 
 <!-- | repository                            | courses                 | description                                                              | skills |
 | ------------------------------------- | ----------------------- | ------------------------------------------------------------------------ | ------ |
