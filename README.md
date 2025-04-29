@@ -20,10 +20,10 @@ I am a fast learner, solution-oriented, and thrive in both team settings and ind
 
 
 ### Upcoming courses    
-- **OOP** avancerad 1 (HT25)
-- **LIA1** (2025-10-13 -> 2025-12-12)
-- **OOP** avancerad 2 (VT25)
-- **LIA2** (2026-02-16 -> 2026-05-22)
+- **OOP avancerad 1** (HT25)
+- **LIA 1** (2025-10-13 -> 2025-12-12)
+- **OOP avancerad 2** (VT25)
+- **LIA 2** (2026-02-16 -> 2026-05-22)
 
 <!-- | repository                            | courses                 | description                                                              | skills |
 | ------------------------------------- | ----------------------- | ------------------------------------------------------------------------ | ------ |
