@@ -6,17 +6,16 @@ Currently studying object-oriented programming with AI competence and looking fo
 I have a solid understanding of Git, OOP, C#, databases, SQL, Python, and agile methodologies.
 I am a fast learner, solution-oriented, and thrive in both team settings and independent work.
 
-<!-- Målmedveten och tekniskt intresserad programmerings student med en stark analytisk förmåga, söker djup och bred kunskap inom allt jag lär mig. Studerar objektorienterad programmering med AI-kompetens och söker en LIA-plats hösten 2025. Har god förståelse för git, OOP, C#, databaser, SQL, python och agila arbetsmetoder. Snabblärd, problemlösningsorienterad och trivs i både team och självständigt arbete. -->
 
 ## Check out my github portfolio :briefcase:
 
 | Repository                            | Course                  | Description                                                              | Skills |
 | ------------------------------------- | ----------------------- | ------------------------------------------------------------------------ | ------ |
-| [Data warehouse lifecycle][dwh]       | OOP Intro / OOP grund   | Learned the basics of object-oriented programming (OOP): encapsulation, inheritance, polymorphism, and generics. Gained experience in error handling, console/file system, UI creation, and version control.            | C#, OOP, Git |
-| [Data platform course][data_platform] | Databaser               |  Designed, created, and managed relational databases using SQL. Learned data modeling, normalization, and CRUD operations.       | SQL, Dapper, Data Modeling |
+| [C# group project][c#_project], [C# exercise][quiz]       | OOP Intro / OOP grund   | Learned the basics of object-oriented programming (OOP): encapsulation, inheritance, polymorphism, and generics. Gained experience in error handling, console/file system, UI creation, and version control.            | C#, OOP, Git |
+| [Databaser][db] | Databaser               |  Designed, created, and managed relational databases using SQL. Learned data modeling, normalization, and CRUD operations.       | SQL, Dapper, Data Modeling |
 | | Agil Projektledning | Studied Scrum and Kanban; learned to manage project structures, roles (Scrum Master, Developer, Product Owner), and team planning. | Scrum, Kanban, GitHub-Projects |
-| [Data modeling course][model]         | AI 1 - Python           | Developed Python skills, working with file handling, virtual enviornments, NumPy, Pandas, and Matplotlib. Focused on data cleaning, preparation, visualization, data analysis, data storytelling, dashboards and KPIs.     | Python, Pandas, Matplotlib, NumPy, Streamlit |
-| [Data engineering][data_eng]          | AI 2 - Data Engineering (ongoing) | Studying ETL/ELT processes, data pipelines, and transformations. Learning regression, classification, clustering, and working with DLT, DBT Core, Docker and scikit-learn.                        | DuckDB, Data Warehouse, Data Pipelines, APIs, Snowflake, Docker, LLMs |
+| [AI 1 - Python][ai1], [Labb1][ai1_labb1], [Labb2][ai1_labb2]         | AI 1 - Python           | Developed Python skills, working with file handling, virtual enviornments, NumPy, Pandas, and Matplotlib. Focused on data cleaning, preparation, visualization, data analysis, data storytelling, dashboards and KPIs.     | Python, Pandas, Matplotlib, NumPy, Streamlit |
+| [AI 2 - Data Engineering][ai2]          | AI 2 - Data Engineering (ongoing) | Studying ETL/ELT processes, data pipelines, and transformations. Learning regression, classification, clustering, and working with DLT, DBT Core, Docker and scikit-learn.                        | DuckDB, Data Warehouse, Data Pipelines, APIs, Snowflake, Docker, LLMs |
 
 
 ### Upcoming courses    
@@ -25,26 +24,14 @@ I am a fast learner, solution-oriented, and thrive in both team settings and ind
 - **OOP avancerad 2** (VT25)
 - **LIA 2** (2026-02-16 -> 2026-05-22)
 
-<!-- | repository                            | courses                 | description                                                              | skills |
-| ------------------------------------- | ----------------------- | ------------------------------------------------------------------------ | ------ |
-| [Data warehouse lifecycle][dwh]       | OOP Intro / OOP grund   | Learned the basics of object-oriented programming (OOP): encapsulation, inheritance, polymorphism, and generics. Gained experience in error handling, console/file system, UI creation, and version control.            | C#, OOP, Git |
-| [Data platform course][data_platform] | Databaser               |  Designed, created, and managed relational databases using SQL. Learned data modeling, normalization, and CRUD operations.       | SQL, Dapper, Data Modeling |
-| | Agil Projektledning | Studied Scrum and Kanban; learned to manage project structures, roles (Scrum Master, Developer, Product Owner), and team planning. | Scrum, Kanban, GitHub-Projects |
-| [Data modeling course][model]         | AI 1 - Python           | Developed Python skills, working with file handling, virtual enviornments, NumPy, Pandas, and Matplotlib. Focused on data cleaning, preparation, visualization, data storytelling, dashboards and KPIs.     | Python, Pandas, Matplotlib, NumPy, Streamlit |
-| [Data engineering][data_eng]          | AI 2 - Data Engineering | dashboards, duckDB, dlt, dbt core, APIs, snowflake                        | | -->
+[quiz]: https://github.com/ponagr/Quiz.git
+[c#_project]: https://github.com/ponagr/csharp_group_project.git
+[db]: https://github.com/ponagr/databaser_school_project.git
+[ai1]: https://github.com/ponagr/python_1.git
+[ai1_labb1]: https://github.com/ponagr/python_labb_1.git
+[ai1_labb2]: https://github.com/ponagr/Task2_python.git
+[ai2]: https://github.com/ponagr/python_2_data_engineering.git
 
-
-Länkar:
-[data_platform]: https://github.com/AIgineerAB/data_platform_course
-[model]: https://github.com/AIgineerAB/data_modeling_course
-[dwh]: https://github.com/AIgineerAB/data_warehouse_course
-[data_eng]: https://github.com/kokchun/Data-engineering-AI22
-[dl]: https://github.com/kokchun/Deep-learning-AI21
-[ml]: https://github.com/kokchun/Machine-learning-AI22
-[pytprog]: https://github.com/kokchun/Python-course-AI22
-[data_analysis]: https://github.com/kokchun/Databehandling-AI22
-[prog1]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
-[lin_alg]: https://github.com/kokchun/Linjar-algebra-21
 
 ## Experience
 
