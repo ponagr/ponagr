@@ -1,5 +1,5 @@
 
-# Pontus Ågren Grundström
+# Pontus Ågren Grundström 
 
 Technically inclined programming student with strong analytical skills, always seeking deep and wide knowledge in everything i learn.
 Currently studying object-oriented programming with AI competence and looking for an internship placement (LIA) in the fall of 2025.
@@ -18,7 +18,7 @@ I am a fast learner, solution-oriented, and thrive in both team settings and ind
 | [AI 2 - Data Engineering][ai2]          | AI 2 - Data Engineering (ongoing) | Studying ETL/ELT processes, data pipelines, and transformations. Learning regression, classification, clustering, and working with DLT, DBT Core, Docker and scikit-learn.                        | DuckDB, Data Warehouse, Data Pipelines, APIs, Snowflake, Docker, LLMs |
 
 
-### Upcoming courses    
+### Upcoming courses 💻  
 - **OOP avancerad 1** (HT25)
 - **LIA 1** (2025-10-13 -> 2025-12-12)
 - **OOP avancerad 2** (VT25)
@@ -33,7 +33,7 @@ I am a fast learner, solution-oriented, and thrive in both team settings and ind
 [ai2]: https://github.com/ponagr/python_2_data_engineering.git
 
 
-## Experience
+## Experience 
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
