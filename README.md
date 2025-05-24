@@ -11,11 +11,11 @@ I am a fast learner, solution-oriented, and thrive in both team settings and ind
 
 | Repository                            | Course                  | Description                                                              | Skills |
 | ------------------------------------- | ----------------------- | ------------------------------------------------------------------------ | ------ |
-| [C# group project][c#_project], [C# exercise][quiz]       | OOP Intro / OOP grund   | Learned the basics of object-oriented programming (OOP): encapsulation, inheritance, polymorphism, and generics. Gained experience in error handling, console/file system, UI creation, and version control.            | C#, OOP, Git |
+| [C# group project][c#_project]       | OOP Intro / OOP grund   | Learned the basics of object-oriented programming (OOP): encapsulation, inheritance, polymorphism, and generics. Gained experience in error handling, console/file system, UI creation, and version control.            | C#, OOP, Git |
 | [Databaser][db] | Databaser               |  Designed, created, and managed relational databases using SQL. Learned data modeling, normalization, and CRUD operations.       | SQL, Dapper, Data Modeling |
 | | Agil Projektledning | Studied Scrum and Kanban; learned to manage project structures, roles (Scrum Master, Developer, Product Owner), and team planning. | Scrum, Kanban, GitHub-Projects |
 | [AI 1 - Python][ai1], [Labb1][ai1_labb1], [Labb2][ai1_labb2]         | AI 1 - Python           | Developed Python skills, working with file handling, virtual enviornments, NumPy, Pandas, and Matplotlib. Focused on data cleaning, preparation, visualization, data analysis, data storytelling, dashboards and KPIs.     | Python, Pandas, Matplotlib, NumPy, Streamlit |
-| [AI 2 - Data Engineering][ai2]          | AI 2 - Data Engineering (ongoing) | Studying ETL/ELT processes, data pipelines, and transformations. Learning regression, classification, clustering, and working with DLT, DBT Core, Docker and scikit-learn.                        | DuckDB, Data Warehouse, Data Pipelines, APIs, Snowflake, Docker, LLMs |
+| [AI 2 - Data Engineering][ai2], [AI 2 group project][ai2_project]          | AI 2 - Data Engineering (ongoing) | Studying ETL/ELT processes, data pipelines, and transformations. Learning regression, classification, clustering, and working with DLT, DBT Core, Docker and scikit-learn.                        | DuckDB, Data Warehouse, Data Pipelines, APIs, Snowflake, Dagster, LLMs |
 
 
 ### Upcoming courses 💻  
@@ -24,13 +24,14 @@ I am a fast learner, solution-oriented, and thrive in both team settings and ind
 - **OOP avancerad 2** (VT25)
 - **LIA 2** (2026-02-16 -> 2026-05-22)
 
-[quiz]: https://github.com/ponagr/Quiz.git
+
 [c#_project]: https://github.com/ponagr/csharp_group_project.git
 [db]: https://github.com/ponagr/databaser_school_project.git
 [ai1]: https://github.com/ponagr/python_1.git
 [ai1_labb1]: https://github.com/ponagr/python_labb_1.git
 [ai1_labb2]: https://github.com/ponagr/Task2_python.git
 [ai2]: https://github.com/ponagr/python_2_data_engineering.git
+[ai2_project]: https://github.com/ponagr/AI_2_group_project.git
 
 
 ## Experience 
