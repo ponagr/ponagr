@@ -68,4 +68,6 @@ I am a fast learner, solution-oriented, and thrive in both team settings and ind
 - [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/ponagr/
+[discord]: ponagr#0579
 
+[Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white): ponagr#0578
