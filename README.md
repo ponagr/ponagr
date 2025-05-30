@@ -67,5 +67,5 @@ I am a fast learner, solution-oriented, and thrive in both team settings and ind
 
 - [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/ponagr/
+[linkedin] https://www.linkedin.com/in/ponagr/
 
