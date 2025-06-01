@@ -65,8 +65,6 @@ I am a fast learner, solution-oriented, and thrive in both team settings and ind
 
 ## Contact me :iphone:
 
-- [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponagr/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ponagr#0579/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pontus.agrengrundstrom@gmail.com)
 
-[linkedin]: https://www.linkedin.com/in/ponagr/
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponagr/)
-- [![Discord](https://img.shields.io/badge/Discord-Connect-blue?logo=discord&logoColor=white)](https://discord.com/users/ponagr#0579/)
+
