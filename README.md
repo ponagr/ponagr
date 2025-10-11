@@ -15,7 +15,7 @@ I am a fast learner, solution-oriented, and thrive in both team settings and ind
 | | Agil Projektledning | Studied Scrum and Kanban; learned to manage project structures, roles (Scrum Master, Developer, Product Owner), and team planning. | Scrum, Kanban, GitHub-Projects |
 | [AI 1 - Python][ai1], [Labb1][ai1_labb1], [Labb2][ai1_labb2]         | AI 1 - Python           | Developed Python skills, working with file handling, virtual enviornments, NumPy, Pandas, and Matplotlib. Focused on data cleaning, preparation, visualization, data analysis, data storytelling, dashboards and KPIs.     | Python, Pandas, Matplotlib, NumPy, Streamlit |
 | [AI 2 - Data Engineering][ai2], [Data Engineering group project][ai2_project]          | AI 2 - Data Engineering  | Studying ETL/ELT processes, data pipelines, and transformations, working with DLT, DBT Core and duckdb/snowflake. Orchestration with dagster and showing data in streamlit dashboard with implemented LLM.                      | DuckDB, Data Warehouse, Data Pipelines, APIs, Snowflake, Dagster, LLMs |
-| [AI 3 - AI Engineering][ai_engineering] | (Ongoing course) <br> AI 3 - AI Engineering (Part 1/2) | Learning ML concepts, regression and classification algorithms, data validation, serving AI models with FastAPI, creating RAG systems, building AI agents, building conversational AI systems, and deploying AI applications with Azure Functions and Web Apps. | Machine Learning, scikit-learn, Pydantic, FastAPI, CRUD | 
+| [AI 3 - AI Engineering][ai_engineering], [Fullstack project][ai3_labb] | (Ongoing course) <br> AI 3 - AI Engineering (Part 1/2) | Learning ML concepts, regression and classification algorithms, data validation, serving AI models with FastAPI, creating RAG systems, building AI agents, building conversational AI systems, and deploying AI applications with Azure Functions and Web Apps. | Machine Learning, scikit-learn, Pydantic, FastAPI, CRUD, REST API | 
 
 ### Upcoming courses 💻  
 - **LIA 1** - (2025-10-13 -> 2025-12-12)
@@ -31,6 +31,7 @@ I am a fast learner, solution-oriented, and thrive in both team settings and ind
 [ai2]: https://github.com/ponagr/python_2_data_engineering.git
 [ai2_project]: https://github.com/ponagr/AI_2_group_project.git
 [ai_engineering]: https://github.com/ponagr/ai_engineering_pontus_agren_grundstrom.git
+[ai3_labb]: https://github.com/ponagr/taxi-prediction-fullstack-pontus.git
 
 
 ## Experience 
