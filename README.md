@@ -1,7 +1,7 @@
 # Pontus Ågren Grundström 
 
 Technically inclined programming student with strong analytical skills, always seeking deep and wide knowledge in everything i learn.
-Currently studying object-oriented programming with AI competence and looking for an internship placement (LIA) in the fall of 2025.
+Currently studying object-oriented programming with AI competence in the final term, now looking for new exciting challenges after my exam in Data/AI Engineering Summer 2026.
 I have a solid understanding of Git, OOP, C#, databases, SQL, Python, and agile methodologies.
 I am a fast learner, solution-oriented, and thrive in both team settings and independent work.
 
@@ -10,15 +10,15 @@ I am a fast learner, solution-oriented, and thrive in both team settings and ind
 
 | Repository                            | Course                  | Description                                                              | Skills |
 | ------------------------------------- | ----------------------- | ------------------------------------------------------------------------ | ------ |
-| [C# group project][c#_project]       | OOP Intro / OOP grund   | Learned the basics of object-oriented programming (OOP): encapsulation, inheritance, polymorphism, and generics. Gained experience in error handling, console/file system, UI creation, and version control.            | C#, OOP, Git |
-| [Databaser][db] | Databaser               |  Designed, created, and managed relational databases using SQL. Learned data modeling, normalization, and CRUD operations.       | SQL, Dapper, Data Modeling |
-| | Agil Projektledning | Studied Scrum and Kanban; learned to manage project structures, roles (Scrum Master, Developer, Product Owner), and team planning. | Scrum, Kanban, GitHub-Projects |
-| [AI 1 - Python][ai1], [Labb1][ai1_labb1], [Labb2][ai1_labb2]         | AI 1 - Python           | Developed Python skills, working with file handling, virtual enviornments, NumPy, Pandas, and Matplotlib. Focused on data cleaning, preparation, visualization, data analysis, data storytelling, dashboards and KPIs.     | Python, Pandas, Matplotlib, NumPy, Streamlit |
-| [AI 2 - Data Engineering][ai2], [Data Engineering group project][ai2_project]          | AI 2 - Data Engineering  | Studying ETL/ELT processes, data pipelines, and transformations, working with DLT, DBT Core and duckdb/snowflake. Orchestration with dagster and showing data in streamlit dashboard with implemented LLM.                      | DuckDB, Data Warehouse, Data Pipelines, APIs, Snowflake, Dagster, LLMs |
-| [AI 3 - AI Engineering][ai_engineering], [Fullstack project][ai3_labb] | AI 3 - AI Engineering (Part 1/2) | Learning ML concepts, regression and classification algorithms, data validation, serving AI models with FastAPI | Machine Learning, scikit-learn, Pydantic, FastAPI, CRUD, REST API | 
-| | LIA 1 - Stena Fastigheter AB, Data Engineer | Created ELT pipeline for extracting and loading electrical car loading station data using OCPI-protocol, deployed pipeline cronjob and dashboard for data analytics on energy patterns | ELT, Azure, Docker, Openshift, Snowflake, dlt, dbt, OCPI, CI/CD, Streamlit |
+| [C# Group Project][c#_project]       | OOP Intro / OOP Basics   | Learned the basics of object-oriented programming (OOP): encapsulation, inheritance, polymorphism, and generics. Gained experience in error handling, console/file system, UI creation, and version control.            | C#, OOP, Git |
+| [Database Project][db] | Databases               |  Designed, created, and managed relational databases using SQL. Learned data modeling, normalization, and CRUD operations.       | SQL, Dapper, Data Modeling |
+| | Agile Projectmanagement | Studied Scrum and Kanban; learned to manage project structures, roles (Scrum Master, Developer, Product Owner), and team planning. | Scrum, Kanban, GitHub-Projects |
+| [AI 1 - Python][ai1], [Lab 1][ai1_labb1], [Lab 2][ai1_labb2]         | AI 1 - Python           | Developed Python skills, working with file handling, virtual enviornments, NumPy, Pandas, and Matplotlib. Focused on data cleaning, preparation, visualization, data analysis, data storytelling, dashboards and KPIs.     | Python, Pandas, Matplotlib, NumPy, Streamlit |
+| [AI 2 - Data Engineering][ai2], [Group Project][ai2_project]          | AI 2 - Data Engineering  | Studying ETL/ELT processes, data pipelines, and transformations, working with DLT, DBT Core and duckdb/snowflake. Orchestration with dagster and showing data in streamlit dashboard with implemented LLM.                      | DuckDB, Data Warehouse, Data Pipelines, APIs, Snowflake, Dagster, LLMs |
+| [AI 3 - AI Engineering][ai_engineering], [Fullstack Project][ai3_labb] | AI 3 - AI Engineering (Part 1/2) | Learning ML concepts, regression and classification algorithms, data validation, serving AI models with FastAPI | Machine Learning, scikit-learn, Pydantic, FastAPI, CRUD, REST API | 
+| | Internship 1 - Stena Fastigheter AB, Data Engineer | Created ELT pipeline for extracting and loading electrical car loading station data using OCPI-protocol, deployed pipeline cronjob and dashboard for data analytics on energy patterns | ELT, Azure, Docker, Openshift, Snowflake, dlt, dbt, OCPI, CI/CD, Streamlit |
 | [AI 3 - RAG Project][ai4_project] | AI 3 - AI Engineering (Part 2/2) | Learning RAG systems, prompt engineering, Vector databases, word embeddings, webscraping, building AI agents, building conversational AI systems, and deploying AI applications with Azure Functions and Web Apps. | pydantic_ai, FastMCP, Azure Cloud, Docker, LanceDB, FireCrawl |
-| | LIA 2 - Stena Fastigheter AB, AI Engineer | (ongoing) <br> Creating MCP server for easy access to IoT sensor data within company agent, setting up oauth and azure authentication | FastMCP, Azure, Docker, AI-Agents, oAuth |
+| | Internship 2 - Stena Fastigheter AB, AI Engineer | (ongoing) <br> Creating MCP server for easy access to IoT sensor data within company agent, setting up OAuth and Microsoft Entra ID authentication | FastMCP, Azure, Docker, AI-Agents, OAuth 2.0 |
 
 
 
@@ -73,6 +73,7 @@ I am a fast learner, solution-oriented, and thrive in both team settings and ind
 ## Contact me :iphone:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ponagr/) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ponagr#0579/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pontus.agrengrundstrom@gmail.com)
+
 
 
 
